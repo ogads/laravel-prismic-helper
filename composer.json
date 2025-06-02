@@ -6,7 +6,7 @@
         "Prismic",
         "laravel-prismic-helper"
     ],
-    "homepage": "https://github.com/stefblokdijk/laravel-prismic-helper",
+    "homepage": "https://github.com/ogads/laravel-prismic-helper",
     "license": "MIT",
     "type": "library",
     "authors": [
