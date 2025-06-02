@@ -18,7 +18,7 @@
     ],
     "require": {
         "php": "^7.1|^8.0",
-        "illuminate/support": "^5.5|^6|^7|^8",
+        "illuminate/support": "^5.5|^6|^7|^8|^9|^10|^11|^12",
         "prismic/php-sdk": "5.*"
     },
     "require-dev": {
